@@ -4,7 +4,8 @@ It is easy to use and after the object is been recognized it gives out voice out
 It is an improvisation on the shortcomings of the current and existing technologies that gets rid of inconvenient and obsolete hardware and devices.
 
 ## Home Page Screen
-<img src="C:\Users\dorra\Downloads\homescreen.jpg" width="100" height="100" alt="Image">
+<img src="![homescreen](https://github.com/DorraBousrih/ObjectRecognitionApp/assets/143103795/3aabdb07-46db-4592-bb13-83e985af7f99)
+" width="100" height="100" alt="Image">
 
 
 ## Results Page Screen
