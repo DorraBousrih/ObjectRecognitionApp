@@ -4,7 +4,7 @@ It is easy to use and after the object is been recognized it gives out voice out
 It is an improvisation on the shortcomings of the current and existing technologies that gets rid of inconvenient and obsolete hardware and devices.
 
 ## Home Page Screen
-![homescreen](https://github.com/DorraBousrih/ObjectRecognitionApp/assets/143103795/3aabdb07-46db-4592-bb13-83e985af7f99)
+![homescreen](https://github.com/DorraBousrih/ObjectRecognitionApp/assets/143103795/3aabdb07-46db-4592-bb13-83e985af7f99) 
 
 
 ## Results Page Screen
